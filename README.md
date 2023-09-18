@@ -1,4 +1,4 @@
-# Serverless Application
+# DynamoPyAPI Serverless Application
 
 ## Application Overview
 
