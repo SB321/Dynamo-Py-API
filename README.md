@@ -7,4 +7,4 @@
 * CloudFront is used as a content delivery network (CDN) for the S3-hosted web application. It accelerates the delivery of content to users across the globe, improving performance and reducing latency.
 * The RESTful API was designed following REST principles, using HTTP methods like GET, POST, PATCH, and DELETE. API Gateway was configured to manage API requests.
 * DynamoDB tables were created to store different types of data used by the application.
-* CloudWatch Logs were used to capture detailed application logs, including request/response data and error traces.
+* CloudWatch Logs was used to collect comprehensive application logs, such as request/response data and error logs.
